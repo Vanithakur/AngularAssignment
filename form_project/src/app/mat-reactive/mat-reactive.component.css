@@ -1,0 +1,44 @@
+.text-msg{
+  color: red;
+  margin: 10px;
+}
+.mat-btn{
+  margin-left: auto;
+}
+.example-radio-group {
+    display: flex;
+    flex-direction: column;
+    margin: 15px 0;
+    align-items: flex-start;
+  }
+  
+  .example-radio-button {
+    margin: 5px;
+  }
+  .hobby-section{
+    margin: 15px;;
+  }
+
+table{
+  width: 100%;
+}
+
+  table, th, td {
+    border: 1px solid;
+    padding: 15px;
+    text-align: left;
+   
+  }
+  .btn{
+    text-align: center;
+    padding: 2px;
+    margin: 5px;
+   
+  }
+  input{
+    margin: 10px 5px 10px 5px;
+  }
+  label{
+    margin: 5px;
+  }
+  
